@@ -5,7 +5,7 @@ import { StyleSheet, Text, View } from 'react-native';
 export default function App() {
   return (
     <View style={styles.container}>
-      <Text>Porjeto da água!</Text>
+      <Text>Porjeto da água!!</Text>
       <StatusBar style="auto" />
     </View>
   );
